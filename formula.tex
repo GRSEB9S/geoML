@@ -3,4 +3,6 @@ Kernel~Density~Estimation \\
 \widehat{f}_N(x)=\frac{1}{Nh^D}\sum_{i=1}^NK\left(\frac{d(x,x_i)}{h}\right) \\
 K(u)&is&the&kernel&function,&which&normalizes&to&unity.&(\int{K(u)du}=1) \\
 h is known as the bandwidth. and mean is zero (\int{uK(u)du}=0) \\
-
+and has a variance \sigma_k^2=\int{u^2}K(u)du greater than zero. \\
+An oftern-used kernel is the Gaussian kernel,
+K(u)=\frac{1}{(2\pi)^{D/2}}e^{-u^2/2}
