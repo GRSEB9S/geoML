@@ -12,5 +12,5 @@ geological objectives:
 
 1. Find new targets of interest: aqueous deposits, crustal composition
 2. Separate the surface and atmosphere Provide information on spatial/seasonal variations in aerosols, H2O, CO2, and ices
-3.
+3. Measure surface targets with high spatial and spectral resolutions and high signal-to-noise ratio (SNR)
 
